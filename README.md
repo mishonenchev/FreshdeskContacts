@@ -5,6 +5,9 @@
  **EntityFramework Core**: For database creation and repository pattern  
  **Dependency injection**: The built-in dependency injection for .Net Core applications for injecting repositories and services  
  **AutoMapper**: For mapping DTOs to EntityFramework Models - saving the github user data in SQLExpress Database  
+   
+ **Migration is already present in the projects _Migrations_ folder ( for EntityFramework Core ).  
+ To create the database run `Update-Database` in Package-Manager Console**
 
 ## Unit tests:
  Unit tests are implemented using **XUnit** and **FluentAssertions**  
