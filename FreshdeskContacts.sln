@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreshdeskContacts", "FreshdeskContacts\FreshdeskContacts.csproj", "{26FB6D3F-F37C-40A4-95F8-FD3F47238405}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{7C0CA8E4-ABCB-4FAA-96C1-DAE93980E750}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26FB6D3F-F37C-40A4-95F8-FD3F47238405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26FB6D3F-F37C-40A4-95F8-FD3F47238405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26FB6D3F-F37C-40A4-95F8-FD3F47238405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26FB6D3F-F37C-40A4-95F8-FD3F47238405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0CA8E4-ABCB-4FAA-96C1-DAE93980E750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0CA8E4-ABCB-4FAA-96C1-DAE93980E750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0CA8E4-ABCB-4FAA-96C1-DAE93980E750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0CA8E4-ABCB-4FAA-96C1-DAE93980E750}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {867146B2-3902-499F-AD87-17B741A3F0E7}
+	EndGlobalSection
+EndGlobal
